@@ -1,0 +1,15 @@
+C:\Users\rafae\Desktop\DioTest\DesafioDio\DesafioDio\obj\Debug\net6.0\DesafioDio.csproj.AssemblyReference.cache
+C:\Users\rafae\Desktop\DioTest\DesafioDio\DesafioDio\obj\Debug\net6.0\DesafioDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Desktop\DioTest\DesafioDio\DesafioDio\obj\Debug\net6.0\DesafioDio.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\DioTest\DesafioDio\DesafioDio\obj\Debug\net6.0\DesafioDio.AssemblyInfo.cs
+C:\Users\rafae\Desktop\DioTest\DesafioDio\DesafioDio\obj\Debug\net6.0\DesafioDio.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\DioTest\DesafioDio\DesafioDio\bin\Debug\net6.0\DesafioDio.exe
+C:\Users\rafae\Desktop\DioTest\DesafioDio\DesafioDio\bin\Debug\net6.0\DesafioDio.deps.json
+C:\Users\rafae\Desktop\DioTest\DesafioDio\DesafioDio\bin\Debug\net6.0\DesafioDio.runtimeconfig.json
+C:\Users\rafae\Desktop\DioTest\DesafioDio\DesafioDio\bin\Debug\net6.0\DesafioDio.dll
+C:\Users\rafae\Desktop\DioTest\DesafioDio\DesafioDio\bin\Debug\net6.0\DesafioDio.pdb
+C:\Users\rafae\Desktop\DioTest\DesafioDio\DesafioDio\obj\Debug\net6.0\DesafioDio.dll
+C:\Users\rafae\Desktop\DioTest\DesafioDio\DesafioDio\obj\Debug\net6.0\refint\DesafioDio.dll
+C:\Users\rafae\Desktop\DioTest\DesafioDio\DesafioDio\obj\Debug\net6.0\DesafioDio.pdb
+C:\Users\rafae\Desktop\DioTest\DesafioDio\DesafioDio\obj\Debug\net6.0\DesafioDio.genruntimeconfig.cache
+C:\Users\rafae\Desktop\DioTest\DesafioDio\DesafioDio\obj\Debug\net6.0\ref\DesafioDio.dll
